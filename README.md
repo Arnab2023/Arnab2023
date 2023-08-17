@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left"> ✨ Here to create some user friendly Web Apps <br><📚 I'm currently learning to work on MERN stack projects ...<br>🎯 Target:   <br>🎲  </p>
+<p align="left"> ✨ Here to create some User friendly Web Apps <br><📚 I'm currently learning to work on some MERN stack projects ...<br>🎯 Target:To be able to provide Full Stack Web App services to the world   </p>
 
 ###
 
