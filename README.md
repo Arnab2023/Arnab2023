@@ -1,7 +1,15 @@
 <h2 align="left">Hi 👋! My name is Arnab Chakraborty and I'm a Full Stack Developer.</h2>
 
 ###
+<h2 align="left">About me</h2>
 
+###
+
+<p align="left"> ✨ Here to create some user friendly Web Apps <br><📚 I'm currently learning to work on MERN stack projects ...<br>🎯 Target:   <br>🎲  </p>
+
+###
+
+<h2 align="left">I code with</h2>
 <img align="right" height="150" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg"  />
 
 ###
@@ -43,7 +51,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+
 
 ###
 
